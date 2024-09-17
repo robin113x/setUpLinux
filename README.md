@@ -22,3 +22,5 @@ python=python3
 vi=nvim
 vim=nvim
 which-command=whence
+
+sudo mount /dev/sdb1 /media/sunita/
